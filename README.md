@@ -5,14 +5,15 @@
 
 
 ### Linux启动
-1. 安装python：
+1. 右上角star
+2. 安装python：
 
-2. 进入 UCAS-daxigua 目录，直接用python快速构建一个简易的服务器：
+3. 进入 UCAS-daxigua 目录，直接用python快速构建一个简易的服务器：
 
     ```shell
     python -m http.server port(自己选一个)
     ```
    
-3. 本地访问 localhost:port 即可！
+4. 本地访问 localhost:port 即可！
 
-4. linux为公网服务器直接公网ip:port即可。
+5. linux为公网服务器直接公网ip:port即可。
