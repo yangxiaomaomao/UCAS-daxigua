@@ -1,3 +1,22 @@
-# 合成国科大--合成大西瓜魔改版
-# 图片素材在img目录中，魔改需要的自取，大小已经调好，直接塞进目录`/res/raw_assets/`的对应目录中即可，png文件名前两位即为对应目录，如`5035266c-8df3-4236-8d82-a375e97a0d9c`文件应该替换到`/res/raw_assets/50`中
-# 排名不分先后
+## 合成大西瓜
+
+未修改版源码，可直接在浏览器运行
+
+在线玩：[https://daxigua.liyupi.com](https://daxigua.liyupi.com)
+
+
+### 本地启动
+
+1. 安装 serve 工具：
+
+    ```bash
+    npm run serve
+    ```
+
+2. 进入 daxigua 目录，运行 serve：
+
+    ```bash
+    serve
+    ```
+   
+3. 打开浏览器访问 localhost:5000 即可！
